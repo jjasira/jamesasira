@@ -22,7 +22,7 @@ const handleFormSubmit = () => {
       last_name: lastName,
       email: email,
     };
-    register(requestBody);
+    // register(requestBody);
     let submitForm = document.getElementById("contact-form");
     submitForm.style.display = "none";
     let message = document.createElement("p");
