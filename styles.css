@@ -365,6 +365,25 @@ a.active,a:hover{
     border-image: url(images/Borders/Border\ 4.jpg) 30 round; 
 }
 
+/* key projects styles */
+.live-demos{
+    text-align: center;
+    background: grey;
+}
+
+.project-1{
+    padding: 20px;
+    height: 800px;
+}
+
+.project-1 h3{
+    padding: 20px;
+}
+
+iframe{
+    width: 65%;
+    height: 500px;
+}
 
 /* portfolio styles */
 .portfolio-container img{
